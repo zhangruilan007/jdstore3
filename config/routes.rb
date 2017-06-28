@@ -13,6 +13,7 @@ resources :products do
   end
 end
 
-resources :carts
+resources :cart
+
 
 end
