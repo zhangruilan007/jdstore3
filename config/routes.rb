@@ -13,7 +13,11 @@ resources :products do
   end
 end
 
-resources :cart
+resources :carts do
+  collection do
+    delete :clean
+  end
+end
 
-
+resources :cart_items
 end
