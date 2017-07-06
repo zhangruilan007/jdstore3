@@ -19,6 +19,11 @@
 
    qiniu_bucket_domain: oqnedplxv.bkt.clouddn.com  # 你的 qiniu bucket domain
 
+   SEND_CLOUD_USER_NAME: "Ruilan_test_1HfAhL"  # 你的 API_USER
+
+   SEND_CLOUD_USER_KEY: "UvdWdGx5mrUC0pK6"  # 你的 API_KEY
+
+
 
 
  development:
@@ -29,3 +34,7 @@
    qiniu_bucket: jdstore  # 你的 qiniu bucket
 
    qiniu_bucket_domain: oqnedplxv.bkt.clouddn.com  # 你的 qiniu bucket domain
+
+   SEND_CLOUD_USER_NAME: "Ruilan_test_1HfAhL"  # 你的 API_USER
+
+   SEND_CLOUD_USER_KEY: "UvdWdGx5mrUC0pK6"  # 你的 API_KEY
