@@ -10,7 +10,7 @@
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
 
-production:
+ production:
    qiniu_access_key: fah2ZMPKHc6JrqMU07XirkMIOkxNnEW5dYDmPMSI  # 你的 qiniu AccessKey
 
    qiniu_secret_key: 5PMG4QnQJrYp0jNk9t268or8Ad7Oqfm63nsXpGI5  # 你的 qiniu SecretKey
@@ -18,6 +18,7 @@ production:
    qiniu_bucket: jdstore  # 你的 qiniu bucket
 
    qiniu_bucket_domain: oqnedplxv.bkt.clouddn.com  # 你的 qiniu bucket domain
+
 
 
  development:
